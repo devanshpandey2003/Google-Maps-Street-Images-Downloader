@@ -1,10 +1,5 @@
 # Google Maps Street View Downloader
 
-[![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)
-
-[Full API Documentation](https://yousephzidan.github.io/gsvp-dl/)
-
-
 ## Overview
 
 This project provides a **Google Street View Panorama Downloader** as both an **API** and a **command-line tool**.
@@ -215,9 +210,6 @@ Contributions are welcome!
 For larger changes, please open an issue first to discuss.
 
 
-## License
-
-This project is licensed under the MIT License.
 
 
 
